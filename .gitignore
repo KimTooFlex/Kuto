@@ -1,0 +1,9 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# Untracked files:
+.vs
+packages
+Kuto/bin
+Kuto/obj
+Kuto.Browser/bin
+Kuto.Browser/obj
